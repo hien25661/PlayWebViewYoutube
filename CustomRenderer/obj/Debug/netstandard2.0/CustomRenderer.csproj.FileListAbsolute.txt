@@ -1,0 +1,10 @@
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/bin/Debug/netstandard2.0/CustomRenderer.deps.json
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/bin/Debug/netstandard2.0/CustomRenderer.dll
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/bin/Debug/netstandard2.0/CustomRenderer.pdb
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/obj/Debug/netstandard2.0/CustomRenderer.csprojAssemblyReference.cache
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/obj/Debug/netstandard2.0/HybridWebViewPage.xaml.g.cs
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/obj/Debug/netstandard2.0/CustomRenderer.AssemblyInfoInputs.cache
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/obj/Debug/netstandard2.0/CustomRenderer.AssemblyInfo.cs
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/obj/Debug/netstandard2.0/CustomRenderer.dll
+/Users/HienNV/Downloads/Xamarin_Forms___HybridWebView_Custom_Renderer/CustomRenderer/obj/Debug/netstandard2.0/CustomRenderer.pdb
